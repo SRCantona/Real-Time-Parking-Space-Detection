@@ -63,7 +63,12 @@ Noise Injection: Gaussian noise simulating sensor artifacts and low-light grain.
 
 ![train_batch1 (1)](https://github.com/user-attachments/assets/04e35af1-fb42-4d6f-8a71-9dfb633e6db6)
 
+![Screenshot 2025-05-16 030050](https://github.com/user-attachments/assets/521873f3-602c-476e-a2df-c84a9a62432e)
+
+![Screenshot 2025-05-16 025940](https://github.com/user-attachments/assets/1d8d1001-87de-491b-85b9-bdd1c88946ef)
+
 ---
+
 ##  📝 Conclusion
 
 This project demonstrates the effectiveness of a vision-based approach to parking detection using YOLOv8. The system achieved high accuracy with minimal hardware requirements, making it a cost-effective alternative to traditional sensor-based solutions. Our methodology, emphasizing data augmentation and model optimization, ensures robust performance across diverse conditions. As urban areas continue to grow, scalable and intelligent parking solutions like ours will become essential. Future improvements will focus on deployment on edge devices, multi-camera setups, and enhanced analytics.
